@@ -78,5 +78,5 @@ Kodeks ponašanja skup je provedivih pravila koja služe za jasnu komunikaciju o
 
 ### Reference na licenciranje repozitorija
 
->[MIT License](https://github.com/petarmajic/ReStore-Films/blob/master/LICENSE)
+>[License](https://github.com/petarmajic/ReStore-Films/blob/master/LICENSE)
 
